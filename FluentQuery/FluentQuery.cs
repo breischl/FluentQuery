@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.WindowsAzure.Storage.Table;
 
-namespace SepiaLabs.Azure
+namespace SepiaLabs.AzureTools
 {
     public class FluentQuery
     {

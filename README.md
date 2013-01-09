@@ -16,3 +16,8 @@ var myQuery = FluentQuery
 
 var results = myCloudTableReference.ExecuteQuery(myQuery);
 ```
+
+NuGet
+=====
+
+Get the package from [NuGet](https://nuget.org/packages/FluentQuery).

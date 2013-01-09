@@ -66,6 +66,10 @@ local.properties
 ## TODO: If you have NuGet Package Restore enabled, uncomment this
 packages/
 
+## Ignore the lib directory too
+lib/
+*.nupkg
+
 # Visual C++ cache files
 ipch/
 *.aps

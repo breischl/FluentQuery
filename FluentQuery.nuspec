@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>FluentQuery</id>
+        <version>1.0.3</version>
+        <title>FluentQuery for Azure Table Storage</title>
+        <authors>Brian Reischl</authors>
+        <owners>Brian Reischl</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>A fluent-style API for created Azure Table Storage queries. 
+
+Code is also available on GitHub: https://github.com/breischl/FluentQuery</description>
+        <summary>A fluent-style API for created Azure Table Storage queries.</summary>
+    	<dependencies>
+    		<dependency id="WindowsAzure.Storage" version="2.0.3.0" />
+    	</dependencies>
+    </metadata>
+    <files>
+        <file src="FluentQuery\bin\Release\SepiaLabs.AzureTools.dll" target="lib\net40\SepiaLabs.AzureTools.dll" />
+    </files>
+</package>

@@ -7,10 +7,11 @@
     <ProjectGuid>{C9CBD6E0-74B7-4E09-B604-7FF8732F534C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>FluentQuery</RootNamespace>
-    <AssemblyName>FluentQuery</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <RootNamespace>SepiaLabs.AzureTools</RootNamespace>
+    <AssemblyName>SepiaLabs.AzureTools</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
