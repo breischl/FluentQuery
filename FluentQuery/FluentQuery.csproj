@@ -7,8 +7,8 @@
     <ProjectGuid>{C9CBD6E0-74B7-4E09-B604-7FF8732F534C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SepiaLabs.AzureTools</RootNamespace>
-    <AssemblyName>SepiaLabs.AzureTools</AssemblyName>
+    <RootNamespace>FluentQuery</RootNamespace>
+    <AssemblyName>FluentQuery</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
@@ -59,7 +59,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FluentQuery.cs" />
+    <Compile Include="FluentQueryExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
