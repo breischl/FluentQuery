@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>1.1.0</version>
+    <title>$title$</title>
+    <authors>Brian Reischl</authors>
+    <owners>Brian Reischl</owners>
+    <licenseUrl>https://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <projectUrl>https://github.com/breischl/FluentQuery</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A fluent-style API for created Azure Table Storage queries.</description>
+    <releaseNotes>Updated to Azure Storage v6.2.0.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>azure tables fluent</tags>
+  </metadata>
+</package>
